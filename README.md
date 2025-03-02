@@ -272,7 +272,7 @@ PHPStan helps ensure code quality by catching potential issues early.
 ### **Configuration**
 
 - **File:** `phpstan.neon`
-- **Level:** `max`
+- **Level:** `5`
 
 ### **Running PHPStan**
 
